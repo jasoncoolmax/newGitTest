@@ -1,4 +1,4 @@
 # newGitTest..
 
-revised in issue brach
-revised in master branch
+revised in issue brach.
+revised in master branch.
